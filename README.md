@@ -44,15 +44,16 @@ Software:
 
 ## Projects
 ### 3D printer upgrade
+Upgrade and modification of a consumer-grade (Sovol SV07+) FDM 3D printer aimed at improving reliability, rigidity and overall performance.
 
-Upgrade of a consumer-grade (Sovol SV07+) 3D printer aiming to improve reliablity, rigidity and efficiency.  
-Technologies: CAD, 3D printing, firmware, microcontrollers, microcomputers.  
+Technologies: CAD, additive manufacturing (PETG structural parts), Klipper firmware, microcontrollers, single-board computers. 
 Repository: [sv07-mods](https://github.com/arkadiusz-chylinski/sv07-mods)
 
 ### Gear efficiency test rig
+Design and construction of a custom gear efficiency testing rig based on the power recirculation loop principle.
+The rig was built and is currently used for experimental research in my MSc thesis.
 
-Design of a custom gear efficiency testing rig based upon the power recirculation loop effect, complete with proof of concept and use in research.
-Technologies: CAD, CAM, FEM, microcontrollers, LabVIEW, electronics  
+Technologies: CAD, CAM, Finite Element Analysis (FEA), microcontrollers, LabVIEW, electronics.
 Repository: [gear-test-rig](https://github.com/arkadiusz-chylinski/gear-test-rig)
 
 # How to reach me:
