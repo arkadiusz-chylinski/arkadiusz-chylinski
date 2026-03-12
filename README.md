@@ -40,6 +40,7 @@ Electronics:
 Software:
 - C / C++
 - Python
+- MATLAB / Octave
 - Git
 
 ## Projects
