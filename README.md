@@ -41,6 +41,7 @@ Software:
 - C / C++
 - Python
 - MATLAB / Octave
+- LabVIEW
 - Git
 
 ## Projects
